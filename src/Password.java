@@ -3,5 +3,5 @@
  */
 public class Password {
     public int id;
-    public int partOf;
+    public int belongTo;
 }

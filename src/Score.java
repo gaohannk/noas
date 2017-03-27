@@ -3,7 +3,8 @@
  */
 public class Score {
     public int id;
+    public Double value;
     public int partOf;
-
+    public TestName testName;
 }
 
