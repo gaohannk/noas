@@ -5,6 +5,6 @@
 public class Access {
     public int accessBy;
     public int access;
-    public Password password;
+    public String password;
 
 }
