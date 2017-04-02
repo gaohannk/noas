@@ -3,7 +3,10 @@
  */
 public class Statement {
     public int id;
-    public String statement;
+    public String resume;
     public int partOf;
+    public Double score;
+    public TestName testName;
+    public String statement;
 
 }
